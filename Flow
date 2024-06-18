@@ -1,0 +1,3 @@
+(1) define all dependencies in .env
+(2) create all the Schema in models folder after making the low level design of the web app
+(3) OTP pre middleware
